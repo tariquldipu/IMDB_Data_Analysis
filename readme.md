@@ -17,3 +17,6 @@ The dataset was downloaded from https://datasets.imdbws.com. In my analysis, I'l
 The datasets are not included in this repository, since they are very large files (more than 1GB) for github to host. Please download the datasets from the link given above.
 
 All the steps are explained in details inside the notebook file.
+
+
+![Pie Chart](https://raw.githubusercontent.com/tariquldipu/IMDB_Data_Analysis/main/pie_chart.png?token=GHSAT0AAAAAAB47HZL46MMEEZRZ3NXP2SHIY5TLU2A)
